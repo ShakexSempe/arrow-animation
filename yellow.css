@@ -1,0 +1,8 @@
+:root{
+    --background: #ffff00;
+    --bow: 6px dashed rgba(30, 7, 112, 0.411);
+    --arrow: #000036;
+    --border: 6px solid #000036;
+
+    --Text: #000036;
+}
